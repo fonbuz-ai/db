@@ -1,3 +1,8 @@
 streamlit
-duckduckgo-search
 requests
+ddgs
+arxiv
+googlesearch-python
+google-api-python-client
+google-search-results
+beautifulsoup4
